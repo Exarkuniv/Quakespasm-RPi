@@ -6,4 +6,4 @@ Quakespasm for the Pi4
 
 To install
 
-`wget https://raw.githubusercontent.com/Exarkuniv/Nblood-RPI/Master/nblood.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/`
+`wget https://raw.githubusercontent.com/Exarkuniv/Quakespasm-RPi/Master/quakespasm.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/`
