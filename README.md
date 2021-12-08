@@ -1,7 +1,7 @@
 # Quakespasm-RPi
 Quakespasm for the Pi4
 
-[quake RPI](https://sourceforge.net/p/quakespasm/screenshot/ad_7.png)
+![Quake RPI](https://sourceforge.net/p/quakespasm/screenshot/ad_7.png)
 
 
 To install
